@@ -1396,8 +1396,455 @@
           "Type": "Township",
           "name": "Yankin",
           "name_mm" : "ရန်ကင်း"
+        },
+        {
+          "pcode": "MMR010006",
+          "state_region": "Mandalay",
+          "district": "Mandalay",
+          "Type": "Township",
+          "name": "Amarapura",
+          "name_mm" : "အမရပူရ"
+        },
+        {
+          "pcode": "MMR010001",
+          "state_region": "Mandalay",
+          "district": "Mandalay",
+          "Type": "Township",
+          "name": "Aungmyaythazan",
+          "name_mm" : "အောင်မြေသာဇံ"
+        },
+        {
+          "pcode": "MMR010002",
+          "state_region": "Mandalay",
+          "district": "Mandalay",
+          "Type": "Township",
+          "name": "Chanayethazan",
+          "name_mm" : "ချမ်းအေးသာဇံ"
+        },
+        {
+          "pcode": "MMR010004",
+          "state_region": "Mandalay",
+          "district": "Mandalay",
+          "Type": "Township",
+          "name": "Chanmyathazi",
+          "name_mm" : "ချမ်းမြသာစည်"
+        },
+        {
+          "pcode": "MMR010020",
+          "state_region": "Mandalay",
+          "district": "Nyaung-U",
+          "Type": "Township",
+          "name": "Kyaukpadaung",
+          "name_mm" : "ကျောက်ပန်းတောင်း"
+        },
+        {
+          "pcode": "MMR010013",
+          "state_region": "Mandalay",
+          "district": "Kyaukse",
+          "Type": "Township",
+          "name": "Kyaukse",
+          "name_mm" : "ကျောက်ဆည်"
+        },
+        {
+          "pcode": "MMR010009",
+          "state_region": "Mandalay",
+          "district": "Pyinoolwin",
+          "Type": "Township",
+          "name": "Madaya",
+          "name_mm" : "မတ္တရာ"
+        },
+        {
+          "pcode": "MMR010003",
+          "state_region": "Mandalay",
+          "district": "Mandalay",
+          "Type": "Township",
+          "name": "Mahaaungmyay",
+          "name_mm" : "မဟာအောင်မြေ"
+        },
+        {
+          "pcode": "MMR010029",
+          "state_region": "Mandalay",
+          "district": "Meiktila",
+          "Type": "Township",
+          "name": "Mahlaing",
+          "name_mm" : "မလှိုင်"
+        },
+        {
+          "pcode": "MMR010028",
+          "state_region": "Mandalay",
+          "district": "Meiktila",
+          "Type": "Township",
+          "name": "Meiktila",
+          "name_mm" : "မိတ္ထီလာ"
+        },
+        {
+          "pcode": "MMR010011",
+          "state_region": "Mandalay",
+          "district": "Pyinoolwin",
+          "Type": "Township",
+          "name": "Mogoke",
+          "name_mm" : "မိုးကုတ်"
+        },
+        {
+          "pcode": "MMR010017",
+          "state_region": "Mandalay",
+          "district": "Myingyan",
+          "Type": "Township",
+          "name": "Myingyan",
+          "name_mm" : "မြင်းခြံ"
+        },
+        {
+          "pcode": "MMR010015",
+          "state_region": "Mandalay",
+          "district": "Kyaukse",
+          "Type": "Township",
+          "name": "Myittha",
+          "name_mm" : "မြစ်သား"
+        },
+        {
+          "pcode": "MMR010019",
+          "state_region": "Mandalay",
+          "district": "Myingyan",
+          "Type": "Township",
+          "name": "Natogyi",
+          "name_mm" : "နွားထိုးကြီး"
+        },
+        {
+          "pcode": "MMR010021",
+          "state_region": "Mandalay",
+          "district": "Myingyan",
+          "Type": "Township",
+          "name": "Ngazun",
+          "name_mm" : "ငါန်းဇွန်"
+        },
+        {
+          "pcode": "MMR010022",
+          "state_region": "Mandalay",
+          "district": "Nyaung-U",
+          "Type": "Township",
+          "name": "Nyaung-U",
+          "name_mm" : "ညောင်ဦး"
+        },
+        {
+          "pcode": "MMR010007",
+          "state_region": "Mandalay",
+          "district": "Mandalay",
+          "Type": "Township",
+          "name": "Patheingyi",
+          "name_mm" : "ပုသိမ်ကြီး"
+        },
+        {
+          "pcode": "MMR010024",
+          "state_region": "Mandalay",
+          "district": "Yamethin",
+          "Type": "Township",
+          "name": "Pyawbwe",
+          "name_mm" : "ပျော်ဘွယ်"
+        },
+        {
+          "pcode": "MMR010005",
+          "state_region": "Mandalay",
+          "district": "Mandalay",
+          "Type": "Township",
+          "name": "Pyigyitagon",
+          "name_mm" : "ပြည်ကြီးတံခွန်"
+        },
+        {
+          "pcode": "MMR010008",
+          "state_region": "Mandalay",
+          "district": "Pyinoolwin",
+          "Type": "Township",
+          "name": "Pyinoolwin",
+          "name_mm" : "ပြင်ဦးလွင်"
+        },
+        {
+          "pcode": "MMR010010",
+          "state_region": "Mandalay",
+          "district": "Pyinoolwin",
+          "Type": "Township",
+          "name": "Singu",
+          "name_mm" : "စဉ့်ကူး"
+        },
+        {
+          "pcode": "MMR010014",
+          "state_region": "Mandalay",
+          "district": "Kyaukse",
+          "Type": "Township",
+          "name": "Sintgaing",
+          "name_mm" : "စဉ့်ကိုင်"
+        },
+        {
+          "pcode": "MMR010016",
+          "state_region": "Mandalay",
+          "district": "Kyaukse",
+          "Type": "Township",
+          "name": "Tada-U",
+          "name_mm" : "တံတားဦး"
+        },
+        {
+          "pcode": "MMR010018",
+          "state_region": "Mandalay",
+          "district": "Myingyan",
+          "Type": "Township",
+          "name": "Taungtha",
+          "name_mm" : "တောင်သာ"
+        },
+        {
+          "pcode": "MMR010012",
+          "state_region": "Mandalay",
+          "district": "Pyinoolwin",
+          "Type": "Township",
+          "name": "Thabeikkyin",
+          "name_mm" : "သပိတ်ကျဉ်း"
+        },
+        {
+          "pcode": "MMR010030",
+          "state_region": "Mandalay",
+          "district": "Meiktila",
+          "Type": "Township",
+          "name": "Thazi",
+          "name_mm" : "သာစည်"
+        },
+        {
+          "pcode": "MMR010031",
+          "state_region": "Mandalay",
+          "district": "Meiktila",
+          "Type": "Township",
+          "name": "Wundwin",
+          "name_mm" : "ဝမ်းတွင်း"
+        },
+        {
+          "pcode": "MMR010023",
+          "state_region": "Mandalay",
+          "district": "Yamethin",
+          "Type": "Township",
+          "name": "Yamethin",
+          "name_mm" : "ရမည်းသင်း"
+        },
+        {
+          "pcode": "MMR007001",
+          "state_region": "Bago (East)",
+          "district": "Bago",
+          "Type": "Township",
+          "name": "Bago",
+          "name_mm" : "ပဲခူး"
+        },
+        {
+          "pcode": "MMR007007",
+          "state_region": "Bago (East)",
+          "district": "Bago",
+          "Type": "Township",
+          "name": "Daik-U",
+          "name_mm" : "ဒိုက်ဦး"
+        },
+        {
+          "pcode": "MMR007014",
+          "state_region": "Bago (East)",
+          "district": "Taungoo",
+          "Type": "Township",
+          "name": "Htantabin",
+          "name_mm" : "ထန်းတပင်"
+        },
+        {
+          "pcode": "MMR007003",
+          "state_region": "Bago (East)",
+          "district": "Taungoo",
+          "Type": "Township",
+          "name": "Kawa",
+          "name_mm" : "ကဝ"
+        },
+        {
+          "pcode": "MMR007011",
+          "state_region": "Bago (East)",
+          "district": "Taungoo",
+          "Type": "Township",
+          "name": "Kyaukkyi",
+          "name_mm" : "ကျောက်ကြီး"
+        },
+        {
+          "pcode": "MMR007006",
+          "state_region": "Bago (East)",
+          "district": "Bago",
+          "Type": "Township",
+          "name": "Kyauktaga",
+          "name_mm" : "ကျောက်တံခါး"
+        },
+        {
+          "pcode": "MMR007005",
+          "state_region": "Bago (East)",
+          "district": "Bago",
+          "Type": "Township",
+          "name": "Nyaunglebin",
+          "name_mm" : "ညောင်လေးပင်"
+        },
+        {
+          "pcode": "MMR007013",
+          "state_region": "Bago (East)",
+          "district": "Taungoo",
+          "Type": "Township",
+          "name": "Oktwin",
+          "name_mm" : "အုတ်တွင်း"
+        },
+        {
+          "pcode": "MMR007012",
+          "state_region": "Bago (East)",
+          "district": "Taungoo",
+          "Type": "Township",
+          "name": "Phyu",
+          "name_mm" : "ဖြူး"
+        },
+        {
+          "pcode": "MMR007008",
+          "state_region": "Bago (East)",
+          "district": "Bago",
+          "Type": "Township",
+          "name": "Shwegyin",
+          "name_mm" : "ရွှေကျင်"
+        },
+        {
+          "pcode": "MMR007009",
+          "state_region": "Bago (East)",
+          "district": "Taungoo",
+          "Type": "Township",
+          "name": "Taungoo",
+          "name_mm" : "တောင်ငူ"
+        },
+        {
+          "pcode": "MMR007002",
+          "state_region": "Bago (East)",
+          "district": "Bago",
+          "Type": "Township",
+          "name": "Thanatpin",
+          "name_mm" : "သနပ်ပင်"
+        },
+        {
+          "pcode": "MMR007004",
+          "state_region": "Bago (East)",
+          "district": "Bago",
+          "Type": "Township",
+          "name": "Waw",
+          "name_mm" : "ဝေါ"
+        },
+        {
+          "pcode": "MMR007010",
+          "state_region": "Bago (East)",
+          "district": "Taungoo",
+          "Type": "Township",
+          "name": "Yedashe",
+          "name_mm" : "ရေတာရှည်"
+        },
+        {
+          "pcode": "MMR008014",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Gyobingauk",
+          "name_mm" : "ကြို့ပင်ကောက်"
+        },
+        {
+          "pcode": "MMR008008",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Letpadan",
+          "name_mm" : "လက်ပံတန်း"
+        },
+        {
+          "pcode": "MMR008009",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Minhla",
+          "name_mm" : "မင်းလှ"
+        },
+        {
+          "pcode": "MMR008013",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Monyo",
+          "name_mm" : "မိုးညို"
+        },
+        {
+          "pcode": "MMR008012",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Nattalin",
+          "name_mm" : "နတ္တလင်း"
+        },
+        {
+          "pcode": "MMR008010",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Okpho",
+          "name_mm" : "အုတ်ဖို"
+        },
+        {
+          "pcode": "MMR008003",
+          "state_region": "Bago (West)",
+          "district": "Pyay",
+          "Type": "Township",
+          "name": "Padaung",
+          "name_mm" : "ပန်းတောင်း"
+        },
+        {
+          "pcode": "MMR008002",
+          "state_region": "Bago (West)",
+          "district": "Pyay",
+          "Type": "Township",
+          "name": "Paukkhaung",
+          "name_mm" : "ပေါက်ခေါင်း"
+        },
+        {
+          "pcode": "MMR008004",
+          "state_region": "Bago (West)",
+          "district": "Pyay",
+          "Type": "Township",
+          "name": "Paungde",
+          "name_mm" : "ပေါင်းတည်"
+        },
+        {
+          "pcode": "MMR008001",
+          "state_region": "Bago (West)",
+          "district": "Pyay",
+          "Type": "Township",
+          "name": "Pyay",
+          "name_mm" : "ပြည်"
+        },
+        {
+          "pcode": "MMR008006",
+          "state_region": "Bago (West)",
+          "district": "Pyay",
+          "Type": "Township",
+          "name": "Shwedaung",
+          "name_mm" : "ရွှေတောင်"
+        },
+        {
+          "pcode": "MMR008007",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Thayarwady",
+          "name_mm" : "သာယာဝတီ"
+        },
+        {
+          "pcode": "MMR008005",
+          "state_region": "Bago (West)",
+          "district": "Pyay",
+          "Type": "Township",
+          "name": "Thegon",
+          "name_mm" : "သဲကုန်း"
+        },
+        {
+          "pcode": "MMR008011",
+          "state_region": "Bago (West)",
+          "district": "Thayarwady",
+          "Type": "Township",
+          "name": "Zigon",
+          "name_mm" : "ဇီးကုန်း"
         }
-        
       ]
     }
   }
