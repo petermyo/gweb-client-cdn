@@ -1132,7 +1132,272 @@
           "Type": "Township",
           "name": "Hlaingtharya",
           "name_mm" : "လှိုင်သာယာ"
-        }     
+        },
+        {
+          "pcode": "MMR013004",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Hlegu",
+          "name_mm" : "လှည်းကူး"
+        },
+        {
+          "pcode": "MMR013003",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Hmawbi",
+          "name_mm" : "မှော်ဘီ"
+        },
+        {
+          "pcode": "MMR013006",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Htantabin",
+          "name_mm" : "ထန်းတပင်"
+        },
+        {
+          "pcode": "MMR013001",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Insein",
+          "name_mm" : "အင်းစိန်"
+        },
+        {
+          "pcode": "MMR013001",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Kamaryut",
+          "name_mm" : "ကမာရွတ်"
+        },
+        {
+          "pcode": "MMR013041",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Kamaryut",
+          "name_mm" : "ကမာရွတ်"
+        },
+        {
+          "pcode": "MMR013041",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Kawhmu",
+          "name_mm" : "ကော့မှုး"
+        },
+        {
+          "pcode": "MMR013026",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Kayan",
+          "name_mm" : "ခရမ်း"
+        },
+        {
+          "pcode": "MMR013029",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Kungyangon",
+          "name_mm" : "ကွမ်းခြံကုန်း"
+        },
+        {
+          "pcode": "MMR013033",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Kyauktada",
+          "name_mm" : "ကျောက်တံတား"
+        },
+        {
+          "pcode": "MMR013024",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Kyauktan",
+          "name_mm" : "ကျောက်တန်း"
+        },
+        {
+          "pcode": "MMR013038",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Kyeemyindaing",
+          "name_mm" : "ကြည့်မြင်တိုင်"
+        },
+        {
+          "pcode": "MMR013035",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Lanmadaw",
+          "name_mm" : "လမ်းမတော်"
+        },
+        {
+          "pcode": "MMR013036",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Latha",
+          "name_mm" : "လသာ"
+        },
+        {
+          "pcode": "MMR013042",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Mayangone",
+          "name_mm" : "မရမ်းကုန်း"
+        },
+        {
+          "pcode": "MMR013002",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Mingaladon",
+          "name_mm" : "မင်္ဂလာဒုံ"
+        },
+        {
+          "pcode": "MMR013022",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Mingalartaungnyunt",
+          "name_mm" : "မင်္ဂလာတောင်ညွန့်"
+        },
+        {
+          "pcode": "MMR013012",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "North Okkalapa",
+          "name_mm" : "မြောက်ဥက္ကလာပ"
+        },
+        {
+          "pcode": "MMR013034",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Pabedan",
+          "name_mm" : "ပန်းပဲတန်း"
+        },
+        {
+          "pcode": "MMR013016",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Pazundaung",
+          "name_mm" : "ပုဇွန်တောင်"
+        },
+        {
+          "pcode": "MMR013039",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Sanchaung",
+          "name_mm" : "စမ်းချောင်း"
+        },
+        {
+          "pcode": "MMR013031",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Seikgyikanaungto",
+          "name_mm" : "ဆိပ်ကြီးခနောင်တို"
+        },
+        {
+          "pcode": "MMR013045",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Seikkan",
+          "name_mm" : "ဆိပ်ကမ်း"
+        },
+        {
+          "pcode": "MMR013007",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Shwepyithar",
+          "name_mm" : "ရွှေပြည်သာ"
+        },
+        {
+          "pcode": "MMR013011",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "South Okkalapa",
+          "name_mm" : "တောင်ဥက္ကလာပ"
+        },
+        {
+          "pcode": "MMR013005",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Taikkyi",
+          "name_mm" : "တိုက်ကြီး"
+        },
+        {
+          "pcode": "MMR013015",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Tamwe",
+          "name_mm" : "တာမွေ"
+        },
+        {
+          "pcode": "MMR013013",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Thaketa",
+          "name_mm" : "သာကေတ"
+        },
+        {
+          "pcode": "MMR013023",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Thanlyin",
+          "name_mm" : "သန်လျှင်"
+        },
+        {
+          "pcode": "MMR013009",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Thingangyun",
+          "name_mm" : "သင်္ဃန်းကျွန်း"
+        },
+        {
+          "pcode": "MMR013025",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Thongwa",
+          "name_mm" : "သုံးခွ"
+        },
+        {
+          "pcode": "MMR013027",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Twantay",
+          "name_mm" : "တွံတေး"
+        },
+        {
+          "pcode": "MMR013010",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Yankin",
+          "name_mm" : "ရန်ကင်း"
+        }
+        
       ]
     }
   }
