@@ -1031,19 +1031,109 @@
       }
     ]
   },
-  "countries" : {
-    "country" : {
-      "name" : "Myanmar",
+  "countries": {
+    "country": {
+      "name": "Myanmar",
       "shortcode": "MM",
-      "currency" : "MMK",
-      "regionlist" : [
-          {"name" : "Yangon",
-            "type": "city"
-          },
-          {"name" : "Mandalay",
-            "type": "city"
-          }
-        ]
+      "currency": "MMK",
+      "regionlist": [
+        {
+          "pcode": "MMR013037",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Ahlone",
+          "name_mm" : "အလုံ"
+        },
+        {
+          "pcode": "MMR013044",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Bahan",
+          "name_mm" : "ဗဟန်း"
+        },
+        {
+          "pcode": "MMR013017",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Botahtaung",
+          "name_mm" : "ဗိုလ်တထောင်"
+        },
+        {
+          "pcode": "MMR013032",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Cocokyun",
+          "name_mm" : "ကိုကိုးကျွန်း"
+        },
+        {
+          "pcode": "MMR013043",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Dagon",
+          "name_mm" : "ဒဂုံ"
+        },
+        {
+          "pcode": "MMR013020",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Dagon Myothit (East)",
+          "name_mm" : "ဒဂုံမြို့သစ်အရှေ့ပိုင်း"
+        },
+        {
+          "pcode": "MMR013021",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Dagon Myothit (Seikkan)",
+          "name_mm" : "ဒဂုံမြို့သစ်ဆိပ်ကမ်း"
+        },
+        {
+          "pcode": "MMR013018",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Dagon Myothit (South)",
+          "name_mm" : "ဒဂုံမြို့သစ်တောင်ပိုင်း"
+        },
+        {
+          "pcode": "MMR013030",
+          "state_region": "Yangon",
+          "district": "Yangon (South)",
+          "Type": "Township",
+          "name": "Dala",
+          "name_mm" : "ဒလ"
+        },
+        {
+          "pcode": "MMR013014",
+          "state_region": "Yangon",
+          "district": "Yangon (East)",
+          "Type": "Township",
+          "name": "Dawbon",
+          "name_mm" : "ဒေါပုံ"
+        },
+        {
+          "pcode": "MMR013040",
+          "state_region": "Yangon",
+          "district": "Yangon (West)",
+          "Type": "Township",
+          "name": "Hlaing",
+          "name_mm" : "လှိုင်"
+        },
+        {
+          "pcode": "MMR013008",
+          "state_region": "Yangon",
+          "district": "Yangon (North)",
+          "Type": "Township",
+          "name": "Hlaingtharya",
+          "name_mm" : "လှိုင်သာယာ"
+        }     
+      ]
     }
   }
 }
